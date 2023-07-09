@@ -1,0 +1,35 @@
+header{
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    z-index: 2;
+}
+.nav-link{
+    text-align: center;
+    color: #218ee7;
+}
+
+.nav-link:hover{
+    background-color: #218ee7;
+}
+
+.navbar{
+    border-bottom: 1px solid #ccc;
+}
+
+header{
+    margin-bottom: 2rem;
+}
+
+#inicio{
+    margin-bottom: 3rem;
+}
+
+footer{
+    margin-top: 3rem;;
+}
+
+.col-sm-12, .col-md-6, .col-lg-4{
+    margin-bottom: 2rem;
+}
